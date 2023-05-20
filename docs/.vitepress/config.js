@@ -9,7 +9,7 @@ export default {
     nav: [
       { text: "Home", link: "/" },
       { text: "Contribute", link: "/contribute" },
-      { text: "Contact-US", link: "" },
+      { text: "Contact-US", link: "/contact" },
     ],
     sidebar: [
       { text: "Introduction", link: "/" },
