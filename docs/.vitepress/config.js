@@ -7,17 +7,17 @@ export default {
   themeConfig: {
     // theme-level options
     nav: [
-      { text: "Home", link: "" },
-      { text: "Contribute", link: "" },
+      { text: "Home", link: "/" },
+      { text: "Contribute", link: "/contribute" },
       { text: "Contact-US", link: "" },
     ],
     sidebar: [
-      { text: "Introduction", link: "" },
-      { text: "Installation and Setup", link: "" },
+      { text: "Introduction", link: "/" },
+      { text: "Installation and Setup", link: "installation" },
       { text: "Getting Started", link: "" },
       { text: "User Interface", link: "" },
       { text: "Features and Functionality", link: "" },
-      { text: "Troubleshooting", link: "" },
+      { text: "Troubleshooting", link: "/troubleshooting" },
       { text: "Frequently Asked Questions (FAQs)", link: "" },
       { text: "AI Intergration", link: "" },
     ],
